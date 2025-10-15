@@ -1,0 +1,121 @@
+customer_id,first_name,email,phone,city,state,signup_date
+1,User001,user001@data.org,+1-555-242-2679,New York,NY,2023-02-26
+2,User002,user002@biz.co,,Rochester,NY,2023-12-28
+3,User003,user003@mail.com,+1-555-127-4257,New York,NY,2023-06-08
+4,User004,user004@biz.co,+1-555-928-1106,Phoenix,AZ,2023-04-20
+5,User005,user005@data.org,+1-555-320-6514,San Antonio,TX,2023-01-21
+6,User006,user006@biz.co,,New York,NY,2023-01-21
+7,User007,user007@data.org,+1-555-847-8527,Naperville,IL,2023-01-08
+8,User008,user008@example.com,+1-555-949-6925,Buffalo,NY,2023-08-30
+9,User009,user009@example.com,,Spokane,WA,2023-04-21
+10,User010,user010@example.com,+1-555-987-2654,Tacoma,WA,2023-05-28
+11,User011,user011@biz.co,+1-555-473-3664,Tempe,AZ,2023-01-03
+12,User012,user012@mail.com,+1-555-818-2169,Evanston,IL,2024-02-25
+13,User013,user013@mail.com,+1-555-376-4598,Dallas,TX,2023-08-03
+14,User014,user014@mail.com,+1-555-924-6168,Chicago,IL,2023-01-29
+15,User015,user015@example.com,+1-555-680-6155,Tempe,AZ,2023-01-25
+16,User016,user016@biz.co,+1-555-758-8517,Spokane,WA,2023-01-25
+17,User017,user017@mail.com,+1-555-674-9830,Houston,TX,2023-02-13
+18,User018,user018@biz.co,+1-555-508-6930,Tampa,FL,2023-03-31
+19,User019,user019@biz.co,,Seattle,WA,2023-03-09
+20,User020,user020@mail.com,+1-555-911-7916,San Francisco,CA,2023-02-11
+21,User021,user021@biz.co,+1-555-579-9669,Buffalo,NY,2023-04-24
+22,User022,user022@example.com,+1-555-217-9797,Tampa,FL,2023-01-19
+23,User023,user023@data.org,,Tampa,FL,2023-02-11
+24,User024,user024@biz.co,,Phoenix,AZ,2023-02-24
+25,User025,user025@mail.com,+1-555-208-5889,Tampa,FL,2023-03-15
+26,User026,user026@data.org,+1-555-652-9689,Seattle,WA,2023-07-04
+27,User027,user027@biz.co,,San Diego,CA,2023-01-27
+28,User028,user028@mail.com,,Evanston,IL,2023-03-28
+29,User029,user029@biz.co,+1-555-878-9727,New York,NY,2023-04-18
+30,User030,user030@biz.co,+1-555-269-5342,Dallas,TX,2023-01-06
+31,User031,user031@mail.com,+1-555-508-7118,Phoenix,AZ,2023-04-23
+32,User032,user032@example.com,+1-555-165-6539,Cambridge,MA,2023-01-23
+33,User033,user033@mail.com,,Los Angeles,CA,2023-01-09
+34,User034,user034@example.com,+1-555-980-6413,Los Angeles,CA,2023-12-23
+35,User035,user035@mail.com,+1-555-597-4510,Rochester,NY,2024-02-09
+36,User036,user036@mail.com,+1-555-926-7669,San Antonio,TX,2023-07-18
+37,User037,user037@example.com,+1-555-462-7939,Seattle,WA,2023-02-13
+38,User038,user038@example.com,+1-555-761-2612,Tempe,AZ,2023-01-13
+39,User039,user039@data.org,+1-555-211-5073,Sacramento,CA,2023-05-19
+40,User040,user040@biz.co,,Seattle,WA,2023-03-11
+41,User041,user041@biz.co,+1-555-177-8260,Houston,TX,2023-01-16
+42,User042,user042@example.com,+1-555-871-4872,New York,NY,2023-03-24
+43,User043,user043@biz.co,+1-555-985-7570,San Antonio,TX,2023-01-05
+44,User044,user044@biz.co,,Los Angeles,CA,2023-10-16
+45,User045,user045@biz.co,+1-555-813-8973,Tempe,AZ,2023-02-05
+46,User046,user046@data.org,+1-555-159-9883,Dallas,TX,2023-05-11
+47,User047,user047@example.com,,San Diego,CA,2023-02-14
+48,User048,user048@example.com,+1-555-182-4044,Boston,MA,2023-03-30
+49,User049,user049@example.com,+1-555-340-7615,Rochester,NY,2023-04-05
+50,User050,user050@mail.com,+1-555-140-2343,Rochester,NY,2023-01-25
+51,User051,user051@data.org,+1-555-833-6147,Tempe,AZ,2024-02-24
+52,User052,user052@biz.co,,Tacoma,WA,2023-06-29
+53,User053,user053@data.org,+1-555-174-1152,Orlando,FL,2023-12-03
+54,User054,user054@example.com,+1-555-618-5345,Boston,MA,2023-09-28
+55,User055,user055@example.com,+1-555-478-5669,Houston,TX,2023-04-20
+56,User056,user056@data.org,+1-555-926-9666,San Antonio,TX,2023-11-02
+57,User057,user057@example.com,+1-555-237-5333,San Diego,CA,2023-01-12
+58,User058,user058@mail.com,+1-555-719-4450,New York,NY,2023-01-27
+59,User059,user059@data.org,+1-555-357-1832,Chicago,IL,2023-01-06
+60,User060,user060@biz.co,+1-555-145-1058,Rochester,NY,2023-02-17
+61,User061,user061@data.org,+1-555-552-8007,Chicago,IL,2023-03-01
+62,User062,user062@example.com,+1-555-807-3442,San Francisco,CA,2023-02-07
+63,User063,user063@mail.com,+1-555-142-6050,San Diego,CA,2023-07-31
+64,User064,user064@data.org,+1-555-355-2684,Chicago,IL,2023-02-22
+65,User065,user065@biz.co,+1-555-867-3532,Naperville,IL,2023-02-09
+66,User066,user066@mail.com,+1-555-125-3938,Seattle,WA,2023-04-04
+67,User067,user067@mail.com,+1-555-906-2771,Evanston,IL,2023-01-19
+68,User068,user068@biz.co,+1-555-936-8541,Phoenix,AZ,2023-07-14
+69,User069,user069@mail.com,+1-555-775-4164,Evanston,IL,2023-01-10
+70,User070,user070@data.org,+1-555-891-5573,Tempe,AZ,2024-06-04
+71,User071,user071@biz.co,+1-555-963-9785,Naperville,IL,2023-06-27
+72,User072,user072@example.com,+1-555-367-3925,Chicago,IL,2023-01-27
+73,User073,user073@example.com,+1-555-453-6139,Miami,FL,2023-01-01
+74,User074,user074@biz.co,+1-555-294-5173,Phoenix,AZ,2023-07-22
+75,User075,user075@example.com,+1-555-925-9821,Sacramento,CA,2023-05-28
+76,User076,user076@biz.co,,Tacoma,WA,2023-06-06
+77,User077,user077@data.org,+1-555-227-5920,Naperville,IL,2023-06-27
+78,User078,user078@biz.co,+1-555-813-5844,Tampa,FL,2023-01-10
+79,User079,user079@biz.co,+1-555-488-3851,Dallas,TX,2023-02-23
+80,User080,user080@example.com,+1-555-315-8043,Orlando,FL,2023-01-15
+81,User081,user081@biz.co,+1-555-318-9375,Evanston,IL,2023-08-27
+82,User082,user082@example.com,+1-555-779-6491,Boston,MA,2023-04-28
+83,User083,user083@data.org,+1-555-303-3414,New York,NY,2023-02-18
+84,User084,user084@mail.com,+1-555-725-2193,San Francisco,CA,2023-01-08
+85,User085,user085@mail.com,+1-555-493-9099,Cambridge,MA,2023-02-14
+86,User086,user086@mail.com,+1-555-105-2746,Phoenix,AZ,2023-02-17
+87,User087,user087@mail.com,+1-555-812-9486,Phoenix,AZ,2023-06-06
+88,User088,user088@mail.com,+1-555-224-8478,Boston,MA,2023-05-02
+89,User089,user089@data.org,+1-555-553-9270,San Antonio,TX,2023-09-19
+90,User090,user090@mail.com,+1-555-586-8373,Tempe,AZ,2023-03-18
+91,User091,user091@data.org,+1-555-633-8939,Miami,FL,2023-01-16
+92,User092,user092@biz.co,,Tacoma,WA,2023-05-30
+93,User093,user093@data.org,+1-555-653-2320,Miami,FL,2023-06-21
+94,User094,user094@mail.com,+1-555-256-4505,Dallas,TX,2023-04-09
+95,User095,user095@biz.co,+1-555-577-7812,Buffalo,NY,2023-06-26
+96,User096,user096@biz.co,+1-555-888-1320,Los Angeles,CA,2023-03-23
+97,User097,user097@example.com,+1-555-405-7389,Tempe,AZ,2023-03-30
+98,User098,user098@biz.co,+1-555-546-8956,Phoenix,AZ,2023-03-08
+99,User099,user099@data.org,+1-555-917-7624,Sacramento,CA,2023-01-04
+100,User100,user100@mail.com,+1-555-646-1441,San Antonio,TX,2023-01-14
+101,User101,user101@example.com,+1-555-238-8564,Phoenix,AZ,2023-01-04
+102,User102,user102@data.org,+1-555-316-8449,Austin,TX,2023-05-02
+103,User103,user103@biz.co,+1-555-951-7906,Evanston,IL,2023-02-15
+104,User104,user104@biz.co,,Miami,FL,2023-03-27
+105,User105,user105@mail.com,+1-555-899-1659,San Diego,CA,2023-10-13
+106,User106,user106@mail.com,+1-555-736-3496,Los Angeles,CA,2023-02-04
+107,User107,user107@biz.co,+1-555-677-4571,Seattle,WA,2023-03-05
+108,User108,user108@data.org,+1-555-721-2876,Cambridge,MA,2023-06-19
+109,User109,user109@example.com,+1-555-419-7149,Houston,TX,2023-02-01
+110,User110,user110@example.com,+1-555-950-4978,Phoenix,AZ,2023-01-10
+111,User111,user111@data.org,+1-555-714-2983,Rochester,NY,2023-02-11
+112,User112,user112@biz.co,+1-555-170-9289,San Diego,CA,2023-01-22
+113,User113,user113@biz.co,+1-555-208-8102,Chicago,IL,2023-11-15
+114,User114,user114@biz.co,+1-555-545-3885,Naperville,IL,2023-07-18
+115,User115,user115@biz.co,+1-555-945-5397,Tampa,FL,2023-05-01
+116,User116,user116@example.com,+1-555-561-4995,Chicago,IL,2023-09-04
+117,User117,user117@data.org,,Cambridge,MA,2023-07-15
+118,User118,user118@biz.co,+1-555-916-5232,Chicago,IL,2023-01-25
+119,User119,user119@data.org,+1-555-629-4130,Evanston,IL,2023-09-25
+120,User120,user120@biz.co,+1-555-876-4937,New York,NY,2023-04-04

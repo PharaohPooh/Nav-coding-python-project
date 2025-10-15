@@ -1,0 +1,11 @@
+product_id,product,category,unit_price
+1,Widget A,Widgets,12.99
+2,Widget B,Widgets,19.5
+3,Gadget A,Gadgets,29.99
+4,Gadget B,Gadgets,49.0
+5,Doodad A,Doodads,9.99
+6,Doodad B,Doodads,14.99
+7,Thingamajig,Things,39.99
+8,Whatsit,Things,24.99
+9,Doohickey,Accessories,7.49
+10,Contraption,Accessories,59.99
